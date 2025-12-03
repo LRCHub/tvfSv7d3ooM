@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Eureka",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-03T11:32:43.045029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eureka Moment - Bonus Track",
+      "artist": "The Big Moon",
+      "has_synced": false,
+      "path": "select/01_Eureka_Moment_-_Bonus_Track_The_Big_Moon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eureka!",
+      "artist": "Defiance, Ohio",
+      "has_synced": false,
+      "path": "select/02_Eureka!_Defiance,_Ohio.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eureka Pile",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/03_Eureka_Pile_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Leslie Clio",
+      "has_synced": true,
+      "path": "select/04_Eureka_Leslie_Clio.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/05_Eureka_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eureka (Live in Japan 1997)",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/06_Eureka_(Live_in_Japan_1997)_Arch_Enemy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/07_Eureka_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eureka!",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/08_Eureka!_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Tomahawk",
+      "has_synced": false,
+      "path": "select/09_Eureka_Tomahawk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eureka!",
+      "artist": "Periphery",
+      "has_synced": false,
+      "path": "select/10_Eureka!_Periphery.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Jim O’Rourke",
+      "has_synced": false,
+      "path": "select/11_Eureka_Jim_O’Rourke.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Gallína Dijo Eureka",
+      "artist": "Les Luthiers",
+      "has_synced": false,
+      "path": "select/12_La_Gallína_Dijo_Eureka_Les_Luthiers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "Natori",
+      "has_synced": false,
+      "path": "select/13_Eureka_Natori.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eureka",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/14_Eureka_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eureka [ユリイカ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/15_Eureka_[ユリイカ]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eureka",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Eureka_星野源.txt"
+    }
+  ]
+}
